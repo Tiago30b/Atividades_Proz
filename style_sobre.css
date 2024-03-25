@@ -34,7 +34,7 @@ h2{
     padding: 10px;
     padding-left: 15%;
     width: auto;
-    height: 1000px;
+    height: 700px;
     justify-content: center;
     
 }
@@ -73,13 +73,12 @@ h2{
 }
 
 #conteudo_2 table{
-    border: 1px solid;
+    border: 0px solid;
     align-items: center;
     width: 1000px;
     height: 500px;
 
 }
-
 
 #rodape-centralizado img{
     padding-left:175px;
